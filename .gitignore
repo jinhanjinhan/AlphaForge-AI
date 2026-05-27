@@ -30,3 +30,6 @@ data/*
 
 # Logs
 *.log
+
+# Markdown
+ALPHAFORGE_AI_ROADMAP.md
